@@ -31,4 +31,4 @@ This website is created just for fun and to showcase some creative front-end ani
 
 - **HTML** – Structure of the webpages  
 - **CSS** – Styling and responsiveness with media queries  
-- **JavaScript** – Button behavior, animations, and interactions  
+- **JavaScript** – Button behavior, animations, and interactions
